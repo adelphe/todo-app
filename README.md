@@ -46,7 +46,7 @@ todo-app/
 ### Installation
 
 ```bash
-git clone https://github.com/adelpheMusic/todo-app.git
+git clone https://github.com/adelphe/todo-app.git
 cd todo-app
 npm install
 ```
